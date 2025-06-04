@@ -9,7 +9,7 @@ title_separator        : "|"
 subtitle               : "Design x Engineering x Additive Manufacturing"
 name                   : "Brady Kiyoshi Nakamura"
 description            : "Portfolio of work in mechanical design, additive manufacturing, and aesthetic engineering."
-url                    : "https://bradynakamura.com" # Replace with your actual domain
+url                    : "https://yourusername.github.io" # Replace with your actual domain
 baseurl                : ""
 repository             : "bradynakamura/bradynakamura.github.io" # Replace if using a different repo name
 logo                   : "/assets/images/logo.png" # Replace if applicable
